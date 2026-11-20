@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" width="96" alt="dotmgtagmanager"></p>
+<p align="center"><img src="logo.svg?v=2" width="96" alt="dotmgtagmanager"></p>
 
 # dotmgtagmanager — Google Tag Manager e GA4 per PrestaShop
 
